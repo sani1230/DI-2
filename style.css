@@ -16,9 +16,7 @@ body {
 }
 
 
-/* =========================
-   NAVBAR
-========================= */
+/*NAVBAR*/
 
 .navbar {
     width: 100%;
@@ -84,9 +82,7 @@ nav a:hover,
 }
 
 
-/* =========================
-   HERO
-========================= */
+/*HERO*/
 
 .hero {
     min-height: calc(100vh - 80px);
@@ -189,9 +185,7 @@ nav a:hover,
 }
 
 
-/* =========================
-   HERO VISUAL
-========================= */
+/*HERO VISUAL*/
 
 .hero-visual {
     min-height: 500px;
@@ -298,9 +292,7 @@ nav a:hover,
 }
 
 
-/* =========================
-   GENERAL SECTIONS
-========================= */
+/*GENERAL SECTIONS*/
 
 .about,
 .services,
@@ -318,9 +310,7 @@ nav a:hover,
 }
 
 
-/* =========================
-   ABOUT
-========================= */
+/*ABOUT*/
 
 .about {
     border-top: 1px solid #181818;
@@ -359,9 +349,7 @@ nav a:hover,
 }
 
 
-/* =========================
-   SERVICES
-========================= */
+/*SERVICES*/
 
 .services {
     background: #0b0b0b;
@@ -429,9 +417,7 @@ nav a:hover,
 }
 
 
-/* =========================
-   WORK
-========================= */
+/*WORK*/
 
 .project-grid {
     margin-top: 70px;
@@ -492,9 +478,7 @@ nav a:hover,
 }
 
 
-/* =========================
-   CONTACT
-========================= */
+/*CONTACT*/
 
 .contact {
     text-align: center;
@@ -514,9 +498,7 @@ nav a:hover,
 }
 
 
-/* =========================
-   FOOTER
-========================= */
+/*FOOTER*/
 
 footer {
     padding: 35px 7%;
@@ -539,9 +521,7 @@ footer p {
 }
 
 
-/* =========================
-   RESPONSIVE
-========================= */
+/*RESPONSIVE*/
 
 @media (max-width: 900px) {
 
